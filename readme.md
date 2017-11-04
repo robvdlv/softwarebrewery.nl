@@ -28,18 +28,20 @@ Rewriting the worlds leading Live Engagement Marketing platform.<br/>
 Played a key role in setting up a development environment supporting agile practices to increase transparency in the development process. As such introduced issue tracking, an automated build system and test driven development.
 
 # Recommendations
-"Rob, the man with a sharp eye for holistic views and deep technical knowledge. He is strong in distributed system design and knows how to tackle complex business challenges with simple and effective software solutions. Rob shines in growing software guided by tests and a razor sharp design. This allowed our team to be effective, and to stay effective on the long term. It is a bliss to work with Rob and I'm looking forward to work with him any time."
-> _Pieter Joost van de Sande_<br/>
+> Rob, the man with a sharp eye for holistic views and deep technical knowledge. He is strong in distributed system design and knows how to tackle complex business challenges with simple and effective software solutions. Rob shines in growing software guided by tests and a razor sharp design. This allowed our team to be effective, and to stay effective on the long term. It is a bliss to work with Rob and I'm looking forward to work with him any time.
+
+_Pieter Joost van de Sande_
 
 --
 
-"Rob is a dedicated and driven software engineer with a keen eye for detail and workflow. Highly recommended."<br/>
-> _Olivier Keun_<br/>
+> Rob is a dedicated and driven software engineer with a keen eye for detail and workflow. Highly recommended.
+
+ _Olivier Keun_
 
 # Education
 * Advanced Distributed Systems Design Course (by [Udi Dahan](http://udidahan.com))<br/>
 * Distributed Domain Driven Design, Command Query Responsibility Seggregation (by [Greg Young](https://goodenoughsoftware.net))<br/>
-* Bachelor of ICT, Software Engineering, Business Engineering (Amsterdam University of Applied Sciences)
+* Bachelor of ICT, Software & Business Engineering (University of Applied Sciences, Amsterdam)
 
 # Contact
 I am available for contract and consultancy work.
