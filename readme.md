@@ -20,7 +20,7 @@ Rewriting the worlds leading Live Engagement Marketing platform.<br/>
 <br/>
 `legacy` `microservices` `cqrs` `eventsourcing` `docker` `jvm` `golang` `grafana` `prometheus`
 
-**Software Architect / Manager** (2011 - 2016, [Deloitte Innovation](https://www2.deloitte.com/nl/nl/pages/innovatie/topics/innovatie.html))<br/><br/>Worked on a [process intelligence software solution](https://www2.deloitte.com/nl/nl/pages/risk/solutions/process-x-ray.html), that facilitates analyzing data from existing (ERP) systems to find root causes of business process inefficiencies. In use by several F500 companies to successfully increase operational and process efficiency. Performed hands-on guidance of the development team in design, implementation and testing of the solutions built.<br/>
+**Software Architect / Manager** (2011 - 2016, [Deloitte Innovation](https://www2.deloitte.com/nl/nl/pages/innovatie/topics/innovatie.html))<br/><br/>Worked on a [process intelligence software solution](https://www2.deloitte.com/us/en/pages/operations/solutions/process-efficiency-with-advanced-analytics.html), that facilitates analyzing data from existing (ERP) systems to find root causes of business process inefficiencies. In use by several F500 companies to successfully increase operational and process efficiency. Performed hands-on guidance of the development team in design, implementation and testing of the solutions built.<br/>
 <br/>
 `monolith` `microservices` `messaging` `cqrs` `eventsourcing` `.net`
 
