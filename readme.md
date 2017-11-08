@@ -18,16 +18,20 @@ Aside from brewing software I love to read, fish and practice tai chi.
 **Senior Software Architect** (2016 - present, [doubledutch](www.doubledutch.me))<br/><br/>
 Rewriting the worlds leading Live Engagement Marketing platform.<br/>
 <br/>
-`legacy` `microservices` `cqrs` `eventsourcing` `docker` `jvm` `golang` `grafana` `prometheus`
+`legacy` `microservices` `cqrs` `eventsourcing` `ddd` `docker` `jvm` `golang` `grafana` `prometheus`
 
 **Software Architect / Manager** (2011 - 2016, [Deloitte Innovation](https://www2.deloitte.com/nl/nl/pages/innovatie/topics/innovatie.html))<br/><br/>Worked on a [process intelligence software solution](https://www2.deloitte.com/us/en/pages/operations/solutions/process-efficiency-with-advanced-analytics.html), that facilitates analyzing data from existing (ERP) systems to find root causes of business process inefficiencies. In use by several F500 companies to successfully increase operational and process efficiency. Performed hands-on guidance of the development team in design, implementation and testing of the solutions built.<br/>
 <br/>
-`monolith` `microservices` `messaging` `cqrs` `eventsourcing` `.net`
+`monolith` `microservices` `messaging` `cqrs` `eventsourcing` `.net` `ddd`
 
 **Senior Software Engineer** (2003 - 2011, JTeam) _<sub>acquired by [Trifork](http://trifork.nl) in 2012</sub>_<br/><br/>At JTeam I worked on a variety of successful bespoke software projects in different industries and during this period grew into role of Senior Software Engineer. Industries included profit, non-profit, government and healthcare. At JTeam I delivered bespoke software systems which often times integrated with third party systems. I worked both in-house as well as on client-site for and with clients.<br/><br/>I feel lucky to have started my career at JTeam, because to this day I resonate with the Extreme Programming culture it nurtured from its inception. I believe I still benefit from these experiences every day.
 
+`spring framework` `hibernate`
+
 **Development Process Consultant** (2006, Everyweb Solutions)<br/><br/>
 Played a key role in setting up a development environment supporting agile practices to increase transparency in the development process. As such introduced issue tracking, an automated build system and test driven development.
+
+`continous integration` `.net` `python` `trac` `spring.net`
 
 # Recommendations
 > Rob, the man with a sharp eye for holistic views and deep technical knowledge. He is strong in distributed system design and knows how to tackle complex business challenges with simple and effective software solutions. Rob shines in growing software guided by tests and a razor sharp design. This allowed our team to be effective, and to stay effective on the long term. It is a bliss to work with Rob and I'm looking forward to work with him any time.
