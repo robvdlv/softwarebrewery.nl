@@ -15,7 +15,7 @@ I like to think about ways in which systems may break in order to allow them to 
 Aside from brewing software I love to read, fish and practice tai chi.
 
 ## Resumé
-**Engineering Architect** (2016 - present, [doubledutch](www.doubledutch.me))<br/><br/>
+**Senior Software Architect** (2016 - present, [doubledutch](www.doubledutch.me))<br/><br/>
 Rewriting the worlds leading Live Engagement Marketing platform.<br/>
 <br/>
 `legacy` `microservices` `cqrs` `eventsourcing` `docker` `jvm` `golang` `grafana` `prometheus`
