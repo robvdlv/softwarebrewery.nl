@@ -20,8 +20,7 @@ Rewriting the worlds leading Live Engagement Marketing platform, which includes<
 * untangling and discovering domains captured in a monolithic codebase which won't scale much further, to open up for change and extension and compartmentalise in services
 * teasing out read and write concerns to enable scale when spiky mobile traffic hits our APIs
 * making services portable through containerisation and deploying them into the cloud
-* facilitating experimentation through e.g. canaries and dark deploys<br/>
-<br/>
+* facilitating experimentation through e.g. canaries and dark deploys
 
 `legacy` `ddd` `microservices` `cqrs` `eventsourcing` `docker` `jvm` `golang` `.net` `grafana` `prometheus` `axon framework` `rabbitmq`
 
