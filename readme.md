@@ -17,12 +17,11 @@ Aside from brewing software I love to read, fish and practice tai chi.
 ## Resumé
 **Senior Software Architect** (2016 - present, [doubledutch](www.doubledutch.me))<br/><br/>
 Rewriting the worlds leading Live Engagement Marketing platform, which includes<br/>
-<br/>
-● untangling and discovering domains captured in a monolithic codebase which won't scale much further, to open up for change and extension and compartmentalise in services<br/>
-● teasing out read and write concerns to enable scale when spiky mobile traffic hits our APIs<br/>
-● making services portable through containerisation and deploying them into the cloud<br/>
-● facilitating experimentation through e.g. canaries and dark deploys<br/>
-<br/>
+* untangling and discovering domains captured in a monolithic codebase which won't scale much further, to open up for change and extension and compartmentalise in services
+* teasing out read and write concerns to enable scale when spiky mobile traffic hits our APIs
+* making services portable through containerisation and deploying them into the cloud
+* facilitating experimentation through e.g. canaries and dark deploys
+
 `legacy` `ddd` `microservices` `cqrs` `eventsourcing` `docker` `jvm` `golang` `.net` `grafana` `prometheus` `axon framework` `rabbitmq`
 
 **Software Architect / Manager** (2011 - 2016, [Deloitte Innovation](https://www2.deloitte.com/nl/nl/pages/innovatie/topics/innovatie.html))<br/>
