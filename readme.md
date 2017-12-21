@@ -16,7 +16,7 @@ Aside from brewing software I love to read, fish and practice tai chi.
 
 ## Resumé
 **Senior Software Architect** (2016 - present, [doubledutch](www.doubledutch.me))<br/><br/>
-Rewriting the worlds leading Live Engagement Marketing platform, which includes<br/>
+Rewriting the worlds leading Live Engagement Marketing platform<br/>
 * untangling and discovering domains captured in a monolithic codebase which won't scale much further, to open up for change and extension and compartmentalise in services
 * teasing out read and write concerns to enable scale when spiky mobile traffic hits our APIs
 * making services portable through containerisation and deploying them into the cloud
