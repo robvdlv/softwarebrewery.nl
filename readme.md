@@ -22,6 +22,7 @@ Rewriting the worlds leading Live Engagement Marketing platform, which includes<
 * making services portable through containerisation and deploying them into the cloud
 * facilitating experimentation through e.g. canaries and dark deploys<br/>
 <br/>
+
 `legacy` `ddd` `microservices` `cqrs` `eventsourcing` `docker` `jvm` `golang` `.net` `grafana` `prometheus` `axon framework` `rabbitmq`
 
 **Software Architect / Manager** (2011 - 2016, [Deloitte Innovation](https://www2.deloitte.com/nl/nl/pages/innovatie/topics/innovatie.html))<br/>
