@@ -15,14 +15,15 @@ I like to think about ways in which systems may break in order to allow them to 
 Aside from brewing software I love to read, fish and practice tai chi.
 
 ## Resumé
-**Senior Software Architect** (2016 - present, [doubledutch](www.doubledutch.me))<br/><br/>
+**Senior Software Architect** (2016 - present, [doubledutch](www.doubledutch.me))<br/>
 Rewriting the worlds leading Live Engagement Marketing platform<br/>
 * untangling and discovering domains captured in a monolithic codebase which won't scale much further, to open up for change and extension and compartmentalise in services
 * teasing out read and write concerns to enable scale when spiky mobile traffic hits our APIs
 * making services portable through containerisation and deploying them into the cloud
 * facilitating experimentation through e.g. canaries and dark deploys
 
-`legacy` `ddd` `microservices` `cqrs` `eventsourcing` `docker` `jvm` `golang` `.net` `grafana` `prometheus` `axon framework` `rabbitmq`
+`legacy` `ddd` `microservices` `cqrs` `eventsourcing` `docker` `jvm` `golang` `.net` `grafana` `prometheus` `axon framework` `rabbitmq`<br/>
+<br/>
 
 **Software Architect / Manager** (2011 - 2016, [Deloitte Innovation](https://www2.deloitte.com/nl/nl/pages/innovatie/topics/innovatie.html))<br/>
 _“Do the processes in your organization operate according to standard and if not where can you find opportunities to optimize them?”_
@@ -31,17 +32,20 @@ I performed hands-on technical guidance of the development team in design, imple
 <br/>
 To this day, the software is in use by several F500 companies to successfully increase operational and process efficiency.<br/>
 <br/>
-`.net` `etl` `big data` `cqrs` `ddd` `eventsourcing` `masstransit` `monolith` `microservices`
+`.net` `etl` `big data` `cqrs` `ddd` `eventsourcing` `masstransit` `monolith` `microservices`<br/>
+<br/>
 
-**Senior Software Engineer** (2003 - 2011, JTeam) _<sub>acquired by [Trifork](http://trifork.nl) in 2012</sub>_<br/><br/>At JTeam I worked on a variety of successful bespoke software projects in different industries and during this period grew into role of Senior Software Engineer. Industries included profit, non-profit, government and healthcare.<br/>
+**Senior Software Engineer** (2003 - 2011, JTeam) _<sub>acquired by [Trifork](http://trifork.nl) in 2012</sub>_<br/>
+At JTeam I worked on a variety of successful bespoke software projects in different industries and during this period grew into role of Senior Software Engineer. Industries included profit, non-profit, government and healthcare.<br/>
 <br/>
 I delivered bespoke software systems which often times integrated with third party systems. I worked both in-house as well as on client-site for and with clients.<br/>
 <br/>
 Because JTeam nurtured its Extreme Programming culture from inception, I have been ingrained with feedback stimulating practices and methods. I believe I still benefit from these experiences every day.
 
-`xp` `tdd` `scrum` `spring framework` `java` `hibernate` `continuous integration`
+`xp` `tdd` `scrum` `spring framework` `java` `hibernate` `continuous integration`<br/>
+<br/>
 
-**Development Process Consultant** (2006, Everyweb Solutions)<br/><br/>
+**Development Process Consultant** (2006, Everyweb Solutions)<br/>
 Played a key role in setting up a development environment supporting agile practices to increase transparency in the development process. As such introduced issue tracking, an automated build system and test driven development.
 
 `spring framework` `.net` `trac` `python` `tdd` `continuous integration`
@@ -63,7 +67,7 @@ _Pieter Joost van de Sande_
 * Bachelor of ICT, Software & Business Engineering (University of Applied Sciences, Amsterdam)
 
 # Contact
-I become available for contract and consultancy work in the start of 2018.
+I'll be available for contract and consultancy work from the start of 2018.
 
 [(+31) 6 24 180 174](tel:+31624180174)<br/>
 [rob@softwarebrewery.nl](mailto:rob@softwarebrewery.nl)<br/>
