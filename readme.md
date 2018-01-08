@@ -28,7 +28,7 @@ Rewriting the worlds leading Live Engagement Marketing platform<br/>
 **Software Architect / Manager** (2011 - 2016, [Deloitte Innovation](https://www2.deloitte.com/nl/nl/pages/innovatie/topics/innovatie.html))<br/>
 _“Do the processes in your organization operate according to standard and if not where can you find opportunities to optimize them?”_
 
-I performed hands-on technical guidance of the development team in design, implementation and testing of the [process intelligence software solution](https://www2.deloitte.com/us/en/pages/operations/solutions/process-efficiency-with-advanced-analytics.html) that helps answer these questions. Besides of being a core member of our development efforts, I kept an eye on trends in the software field and matched approaches, technology choices and implementations where I believed we could benefit from it.<br/>
+I performed hands-on technical guidance of the development team in design, implementation and testing of the [process intelligence software solution](https://www2.deloitte.com/us/en/pages/operations/solutions/process-efficiency-with-advanced-analytics.html) that helps answer these questions. Besides being a core member of our development efforts, I kept an eye on trends in the software field and matched approaches, technology choices and implementations where I believed we could benefit from it.<br/>
 <br/>
 To this day, the software is in use by several F500 companies to successfully increase operational and process efficiency.<br/>
 <br/>
