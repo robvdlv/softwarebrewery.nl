@@ -53,13 +53,13 @@ Played a key role in setting up a development environment supporting agile pract
 # Recommendations
 > “Rob, the man with a sharp eye for holistic views and deep technical knowledge. He is strong in distributed system design and knows how to tackle complex business challenges with simple and effective software solutions. Rob shines in growing software guided by tests and a razor sharp design. This allowed our team to be effective, and to stay effective on the long term. It is a bliss to work with Rob and I'm looking forward to work with him any time.”
 
-_<a href="https://craftify.nl">Pieter Joost van de Sande</a>_
+_<a href="https://www.linkedin.com/in/pjvds/">Pieter Joost van de Sande</a>_
 
 --
 
 > “Rob is a dedicated and driven software engineer with a keen eye for detail and workflow. Highly recommended.”
 
- _<a href="https://capstone.nl/">Olivier Keun</a>_
+ _<a href="https://www.linkedin.com/in/olivier-keun-8494913/">Olivier Keun</a>_
 
 # Education
 * Advanced Distributed Systems Design Course (by [Udi Dahan](http://udidahan.com))<br/>
