@@ -15,7 +15,7 @@ I like to think about ways in which systems may break in order to allow them to 
 Aside from brewing software I love to read, fish and practice tai chi.
 
 ## Resumé
-**Lead Software Engineer** (2018 - present, [Royal FloraHolland](www.royalfloraholland.com))<br/>
+**Lead Software Engineer**, Freelance (2018 - present, [Royal FloraHolland](www.royalfloraholland.com))<br/>
 Building the Floriday platform<br/>
 `cqrs` `aws` `axon framework` `microservices` `docker` `jvm` `grafana` `sqs`<br/>
 <br/>
