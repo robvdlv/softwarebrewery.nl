@@ -15,7 +15,12 @@ I like to think about ways in which systems may break in order to allow them to 
 Aside from brewing software I love to read, fish and practice tai chi.
 
 ## Resumé
-**Senior Software Architect** (2016 - present, [doubledutch](www.doubledutch.me))<br/>
+**Lead Software Engineer** (2018 - present, [Royal FloraHolland](www.royalfloraholland.com))<br/>
+Building the Floriday platform<br/>
+`cqrs` `aws` `axon framework` `microservices` `docker` `jvm` `grafana` `sqs`<br/>
+<br/>
+
+**Senior Software Architect** (2016 - 2018, [doubledutch](www.doubledutch.me))<br/>
 Rewriting the worlds leading Live Engagement Marketing platform<br/>
 * untangling and discovering domains captured in a monolithic codebase which won't scale much further, to open up for change and extension and compartmentalise in services
 * teasing out read and write concerns to enable scale when spiky mobile traffic hits our APIs
@@ -67,7 +72,8 @@ _<a href="https://www.linkedin.com/in/pjvds/">Pieter Joost van de Sande</a>_
 * Bachelor of ICT, Software & Business Engineering (University of Applied Sciences, Amsterdam)
 
 # Contact
-I'll be available for contract and consultancy work from the start of 2018.
+Currently unavailable for contract and consultancy work.<br/>
+Contact me to inquire for my next availability.
 
 [(+31) 6 24 180 174](tel:+31624180174)<br/>
 [rob@softwarebrewery.nl](mailto:rob@softwarebrewery.nl)<br/>
@@ -75,4 +81,4 @@ I'll be available for contract and consultancy work from the start of 2018.
 KvK 69654050<br/>
 VAT NL192027943B01<br/>
 [Hilversum](https://www.google.nl/maps/place/Hilversum), The Netherlands<br/>
-<br/>
+[Terms & Conditions](resources/Algemene Voorwaarden Software Brewery.pdf)<br/>
