@@ -68,8 +68,9 @@ _<a href="https://www.linkedin.com/in/pjvds/">Pieter Joost van de Sande</a>_
  _<a href="https://www.linkedin.com/in/olivier-keun-8494913/">Olivier Keun</a>_
 
 # Education
-* Advanced Distributed Systems Design Course (by [Udi Dahan](http://udidahan.com))<br/>
-* Distributed Domain Driven Design, Command Query Responsibility Seggregation (by [Greg Young](https://goodenoughsoftware.net))<br/>
+* Building Software Architectures, Hands-On ([Neal Ford](http://nealford.com/), 3 days)<br/>
+* Advanced Distributed Systems Design Course ([Udi Dahan](http://udidahan.com), 5 days)<br/>
+* Distributed Domain Driven Design, Command Query Responsibility Seggregation ([Greg Young](https://goodenoughsoftware.net), 2 days)<br/>
 * Bachelor of ICT, Software & Business Engineering (University of Applied Sciences, Amsterdam)
 
 # Contact
