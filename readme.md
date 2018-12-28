@@ -83,4 +83,4 @@ Contact me to inquire for my next availability.
 KvK 69654050<br/>
 VAT NL192027943B01<br/>
 [Hilversum](https://www.google.nl/maps/place/Hilversum), The Netherlands<br/>
-[Terms & Conditions](resources/Algemene Voorwaarden Software Brewery.pdf) (Dutch)<br/>
+[Terms & Conditions](resources/algemene-voorwaarden-software-brewery-20180201.pdf) (Dutch)<br/>
