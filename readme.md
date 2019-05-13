@@ -17,8 +17,14 @@ Aside from brewing software I love to read, fish and practice tai chi.
 ## Resumé
 **Lead Software Engineer**, Freelance (2018 - present, [Royal FloraHolland](www.royalfloraholland.com))<br/>
 Building the Floriday platform<br/>
+<br/>
 As one of the largest auction companies in the world, the Royal Flora Holland moves huge numbers of flowers and plants daily.
 To facilitate both the buyer and seller side of this movement online, we develop Floriday.
+* design for distribution of workload and resillience
+* align on integration approaches across teams
+* integrate with existing legacy systems to enable 'strangler' style software renewaol
+* capture the domain model in close collaboration with domain experts to minimize mental mapping and facilitate future change
+* we build it we run it
 
 `cqrs` `aws` `axon framework` `microservices` `docker` `jvm` `pagerduty` `grafana` `sqs`<br/>
 <br/>
