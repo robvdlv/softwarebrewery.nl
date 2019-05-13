@@ -20,9 +20,9 @@ Building the Floriday platform<br/>
 <br/>
 As one of the largest auction companies in the world, the Royal Flora Holland moves huge numbers of flowers and plants daily.
 To facilitate both the buyer and seller side of this movement online, we develop Floriday.
-* design for distribution of workload and resillience
+* design for distribution of workload and resilience
 * align on integration approaches across teams
-* integrate with existing legacy systems to enable 'strangler' style software renewaol
+* integrate with existing legacy systems to enable 'strangler' style software renewal
 * capture the domain model in close collaboration with domain experts to minimize mental mapping and facilitate future change
 * we build it we run it
 
