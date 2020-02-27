@@ -89,6 +89,6 @@ Contact me to inquire for my next availability.
 [rob@softwarebrewery.nl](mailto:rob@softwarebrewery.nl)<br/>
 [@robvdlv](https://twitter.com/robvdlv)<br/>
 KvK 69654050<br/>
-VAT NL192027943B01<br/>
+VAT-ID NL002135970B94<br/>
 [Hilversum](https://www.google.nl/maps/place/Hilversum), The Netherlands<br/>
 [Terms & Conditions](resources/algemene-voorwaarden-software-brewery-20180201.pdf) (Dutch)<br/>
