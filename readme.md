@@ -15,10 +15,10 @@ I like to think about ways in which systems may break in order to allow them to 
 Aside from brewing software I love to read, fish and practice tai chi.
 
 ## Resumé
-**Staff Software Engineer**, (2019 sep - present, [Uber](www.uber.com))<br/>
+**Staff Software Engineer**, (2019 sep - present, [Uber](https://www.uber.com))<br/>
 <br/>
 
-**Lead Software Engineer**, Freelance (2018 feb - 2019 sep, [Royal FloraHolland](www.royalfloraholland.com))<br/>
+**Lead Software Engineer**, Freelance (2018 feb - 2019 sep, [Royal FloraHolland](https://www.royalfloraholland.com))<br/>
 Building the Floriday platform<br/>
 <br/>
 As one of the largest auction companies in the world, the Royal Flora Holland moves huge numbers of flowers and plants daily.
@@ -32,7 +32,7 @@ To facilitate both the buyer and seller side of this movement online, we develop
 `cqrs` `aws` `axon framework` `microservices` `docker` `jvm` `pagerduty` `grafana` `sqs`<br/>
 <br/>
 
-**Senior Software Architect** (2016 - 2018, [doubledutch](www.doubledutch.me))<br/>
+**Senior Software Architect** (2016 - 2018, [doubledutch](https://www.doubledutch.me))<br/>
 Rewriting the worlds leading Live Engagement Marketing platform<br/>
 * untangling and discovering domains captured in a monolithic codebase which won't scale much further, to open up for change and extension and compartmentalise in services
 * teasing out read and write concerns to enable scale when spiky mobile traffic hits our APIs
