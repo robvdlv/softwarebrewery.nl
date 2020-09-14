@@ -15,9 +15,11 @@ I like to think about ways in which systems may break in order to allow them to 
 Aside from brewing software I love to read, fish and practice tai chi.
 
 ## Resumé
+**Software Engineer**, Freelance (2020 jul - present, [bol.com](https://www.bol.com))<br/>
+Enhancing Bol.com's selling offer calculation and publication platform.<br/>
+
 **Staff Software Engineer**, (2019 sep - 2020 mar, [Uber](https://www.uber.com))<br/>
-Payments Platform
-<br/>
+Payments Platform<br/>
 
 **Lead Software Engineer**, Freelance (2018 feb - 2019 sep, [Royal FloraHolland](https://www.royalfloraholland.com))<br/>
 Building the Floriday platform<br/>
@@ -86,7 +88,7 @@ _<a href="https://www.linkedin.com/in/pjvds/">Pieter Joost van de Sande</a>_
 * Bachelor of ICT, Software & Business Engineering (University of Applied Sciences, Amsterdam)
 
 # Contact
-Available for contract and consultancy work.<br/>
+Currently unavailable for contract and consultancy work.<br/>
 Contact me to inquire for my next availability.
 
 [(+31) 6 24 180 174](tel:+31624180174)<br/>
