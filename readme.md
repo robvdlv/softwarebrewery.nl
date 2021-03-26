@@ -12,7 +12,7 @@ I have been delivering business critical software professionally since 2002. In 
 
 I like to think about ways in which systems may break in order to allow them to recover gracefully. I care about delivering systems that can be reasoned about and are expressed in terms of their targeted domain, helping the business move forward. I value quality of work delivered and thrive in an active community with the same drive to grow and learn new things everyday.
 
-Aside from brewing software I love to read, fish and practice tai chi.
+Aside from brewing software I love to read, fish and ride my motorcycle.
 
 ## Resumé
 **Software Engineer**, Freelance (2020 jul - present, [bol.com](https://www.bol.com))<br/>
