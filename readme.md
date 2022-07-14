@@ -84,7 +84,7 @@ _<a href="https://www.linkedin.com/in/pjvds/">Pieter Joost van de Sande</a>_
 # Education
 * Building Software Architectures, Hands-On ([Neal Ford](http://nealford.com/), 3 days)<br/>
 * Advanced Distributed Systems Design Course ([Udi Dahan](http://udidahan.com), 5 days)<br/>
-* Distributed Domain Driven Design, CQRS ([Greg Young](https://goodenoughsoftware.net), 2 days)<br/>
+* Distributed Domain Driven Design, CQRS ([Greg Young](https://gregfyoung.wordpress.com), 2 days)<br/>
 * Bachelor of ICT, Software & Business Engineering (University of Applied Sciences, Amsterdam)
 
 # Contact
