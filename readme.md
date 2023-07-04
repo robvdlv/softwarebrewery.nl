@@ -15,7 +15,9 @@ I like to think about ways in which systems may break in order to allow them to 
 Aside from brewing software I love to read, fish and ride my motorcycle.
 
 ## Resumé
-**Software Engineer**, Freelance (2020 jul - present, [bol.com](https://www.bol.com))<br/>
+**Solution Architecture / Developer Experience**, Freelance (2022 sep - present, [DHL Parcel](https://www.dhlparcel.nl/))<br/>
+
+**Software Engineer**, Freelance (2020 jul - 2022 jul, [bol.com](https://www.bol.com))<br/>
 Enhancing Bol.com's selling offer calculation and publication platform.<br/>
 
 **Staff Software Engineer**, (2019 sep - 2020 mar, [Uber](https://www.uber.com))<br/>
