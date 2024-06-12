@@ -93,7 +93,6 @@ _<a href="https://www.linkedin.com/in/pjvds/">Pieter Joost van de Sande</a>_
 Currently unavailable for contract and consultancy work.<br/>
 Contact me to inquire for my next availability.
 
-[(+31) 6 24 180 174](tel:+31624180174)<br/>
 [rob@softwarebrewery.nl](mailto:rob@softwarebrewery.nl)<br/>
 [@robvdlv](https://twitter.com/robvdlv)<br/>
 KvK 69654050<br/>
