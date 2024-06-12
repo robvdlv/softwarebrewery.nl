@@ -1,8 +1,10 @@
 # Rob van der Linden Vooren
 
-> Software Architect
+> Senior Developer, Solution Architect<br/>
+> **Open for contract and consultancy work from July**<br/>
 
 _[rob@softwarebrewery.nl](mailto:rob@softwarebrewery.nl)_<br/>
+_[Linkedin](https://www.linkedin.com/in/robvanderlindenvooren/)_<br/>
 
 ## About me
 I am an independent hands-on software architect with a love for software that delights its users.
@@ -89,7 +91,6 @@ _<a href="https://www.linkedin.com/in/pjvds/">Pieter Joost van de Sande</a>_
 * Bachelor of ICT, Software & Business Engineering (University of Applied Sciences, Amsterdam)
 
 # Contact
-Currently unavailable for contract and consultancy work.<br/>
 Contact me to inquire for my next availability.
 
 [rob@softwarebrewery.nl](mailto:rob@softwarebrewery.nl)<br/>
