@@ -16,7 +16,7 @@ I like to think about ways in which systems may break in order to allow them to 
 Aside from brewing software I love to read, fish and ride my motorcycle.
 
 ## Resumé
-**Solution Architecture / DevEx**, Freelance (2022 sep - 2024 apr, [DHL eCommerce Nederland](http://www.dhlecommerce.nl/))<br/>
+**Solution Architecture / DevEx**, Freelance (2022 sep - 2024 apr, [DHL eCommerce NL](http://www.dhlecommerce.nl/))<br/>
 
 **Software Engineer**, Freelance (2020 jul - 2022 jul, [bol.com](https://www.bol.com))<br/>
 Enhancing Bol.com's selling offer calculation and publication platform.<br/>
