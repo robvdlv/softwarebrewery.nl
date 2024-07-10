@@ -1,7 +1,7 @@
 # Rob van der Linden Vooren
 
 > Senior Developer, Solution Architect<br/>
-> **Open for contract and consultancy work from July**<br/>
+> **Open for contract and consultancy work from July 2024**<br/>
 
 _[rob@softwarebrewery.nl](mailto:rob@softwarebrewery.nl)_<br/>
 _[Linkedin](https://www.linkedin.com/in/robvanderlindenvooren/)_<br/>
@@ -18,7 +18,7 @@ Aside from brewing software I love to read, fish and ride my motorcycle.
 ## Resumé
 **Solution Architecture / DevEx**, Freelance (2022 sep - 2024 apr, [DHL eCommerce NL](http://www.dhlecommerce.nl/))<br/>
 
-**Software Engineer**, Freelance (2020 jul - 2022 jul, [bol.com](https://www.bol.com))<br/>
+**Software Engineer**, Freelance (2020 jul - 2022 jun, [bol.com](https://www.bol.com))<br/>
 Enhancing Bol.com's selling offer calculation and publication platform.<br/>
 
 **Staff Software Engineer**, (2019 sep - 2020 mar, [Uber](https://www.uber.com))<br/>
