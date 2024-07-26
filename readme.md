@@ -1,7 +1,6 @@
 # Rob van der Linden Vooren
 
 > Senior Developer, Solution Architect<br/>
-> **Open for contract and consultancy work from July 2024**<br/>
 
 _[rob@softwarebrewery.nl](mailto:rob@softwarebrewery.nl)_<br/>
 _[Linkedin](https://www.linkedin.com/in/robvanderlindenvooren/)_<br/>
