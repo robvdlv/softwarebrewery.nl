@@ -60,7 +60,7 @@ To this day, the software is in use by several F500 companies to successfully in
 **Senior Software Engineer** (2003 - 2011, JTeam) _<sub>acquired by [Trifork](http://trifork.nl) in 2012</sub>_<br/>
 At JTeam I worked on a variety of successful bespoke software projects in different industries and during this period grew into role of Senior Software Engineer. Industries included profit, non-profit, government and healthcare.<br/>
 <br/>
-I delivered bespoke software systems which often times integrated with third party systems. I worked both in-house as well as on client-site for and with clients.<br/>
+I delivered bespoke software systems which often times integrated with third party systems. I worked both in-house and on client-site for and with clients.<br/>
 <br/>
 Because JTeam nurtured its Extreme Programming culture from inception, I have been ingrained with feedback stimulating practices and methods. I believe I still benefit from these experiences every day.
 
