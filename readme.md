@@ -8,49 +8,66 @@ _[Linkedin](https://www.linkedin.com/in/robvanderlindenvooren/)_<br/>
 ## About me
 I am an independent hands-on software architect with a love for software that delights its users.
 
-I have been delivering business critical software professionally since 2002. In different roles and projects I have experienced practices and processes that support change. Since change is constant, I believe feedback is critical to success on all levels; understanding ultimately software is about people.
+I have been delivering business critical software professionally since 2002. In different roles and projects I have
+experienced practices and processes that support change. Since change is constant, I believe feedback is critical to
+success on all levels; understanding ultimately software is about people.
 
-I like to think about ways in which systems may break in order to allow them to recover gracefully. I care about delivering systems that can be reasoned about and are expressed in terms of their targeted domain, helping the business move forward. I value quality of work delivered and thrive in an active community with the same drive to grow and learn new things everyday.
+I like to think about ways in which systems may break in order to allow them to recover gracefully. I care about
+delivering systems that can be reasoned about and are expressed in terms of their targeted domain, helping the business
+move forward. I value quality of work delivered and thrive in an active community with the same drive to grow and learn
+new things every day.
 
 Aside from brewing software I love to read, fish and ride my motorcycle.
 
 ## Resumé
-**Software Engineer**, Freelance (2024 aug - 2025 jul, [bol.com](https://www.bol.com))<br/>
-Enhancing Bol.com's selling offer conversion-focused services.<br/>
+**Senior Software Engineer**, Freelance (2024 aug - 2025 jul, [bol.com](https://www.bol.com))<br/>
+Enhancing Bol.com's selling offer platform with a focus on conversion-focused services.<br/>
 
 With an increasing trend in both traffic and the desire to experiment and innovate, we identified key challenges in
-services our team inherited. Aside from making continuous reliability and performance improvements on the existing system, my team worked closely with
-the product team. We were able to re-envision its scope to better align with the business goals. This included a focus on
-auditability, performance and scalability and cost-control options.
+conversion-focused services our team had inherited. Aside from making continuous reliability and performance improvements on
+the existing system, my team worked closely with the product team to re-envision the systems scope to better align with the
+business goals. This included a focus on auditability, performance, scalability and cost-control.
 
-We translated this into a set of key performance indicators (KPIs), architectural drivers and
-system design principles to further inform architectural decisions. Seeking fast feedback on the reimagined service
-while delivering business value, we identified a set of key features to implement in the next quarter.
-We implemented a proof-of-concept demonstrating key concepts to validate our initial approach and set out actionable
-milestones and tasks.
+We translated this into a set of key performance indicators, architectural drivers and design principles to guide
+our architectural decisions. Seeking fast feedback on the reimagined service while delivering business value, we identified 
+a set of key features to implement in the next quarter. We implemented a proof-of-concept to demonstrate essential ideas to
+validate our initial approach and set out actionable milestones and tasks.
+
+`kotlin` `golang` `graphql`
 
 **Solution Architecture / DevEx**, Freelance (2022 sep - 2024 apr, [DHL eCommerce NL](http://www.dhlecommerce.nl/))<br/>
-As initial member the DevEx team I applied sentiment analysis to help identify areas of improvement for the
-developer experience of the software teams. For example, to aid teams in migrating their existing services to run on
-Kubernetes, we documented its layout and relation to existing infrastructure as to use it effectively. To help teams
-discover and use available infrastructure we piloted Backstage developer portal.
+As an initial member of the DevEx team, I applied sentiment analysis to identify areas for improving the developer
+experience of software teams. Among other things, to aid teams in migrating their existing services to Kubernetes,
+we documented its layout and how it related to existing infrastructure to enable effective usage. To help teams discover
+and use available infrastructure, we piloted the Backstage developer portal and promoted standardization around an
+access management (IAM) solution.
 
-`sociotechnical` `kubernetes` `backstage` `kafka` `event driven architecture`<br/>
+In the second half of my time at DHL, I shifted focus to architecture and joined a small team of fellow architects.
+As proponents of a [collaborative approach to architecture](https://martinfowler.com/articles/scaling-architecture-conversationally.html),
+we engaged stakeholders across the organization and encouraged sharing perspectives to identify challenges, explore
+options and trade-offs in order to support informed decision-making.
 
-**Software Engineer**, Freelance (2020 jul - 2022 jun, [bol.com](https://www.bol.com))<br/>
+We established an architecture guild to share knowledge across teams and improve understanding of domain and
+team dependencies. Through facilitated workshops, we clarified organizational and technical challenges,
+documented business processes and architectural decisions, and fostered a shared understanding of the architecture
+landscape using tools such as C4 models, user needs mapping, and event storming.
+
+`developer experience` `sociotechnical` `collaborative software design` `architecture` `kubernetes` `backstage`<br/>
+
+**Senior Software Engineer**, Freelance (2020 jul - 2022 jun, [bol.com](https://www.bol.com))<br/>
 Enhancing Bol.com's selling offer calculation and publication platform.<br/>
 <br/>
-Aside from working on core platform features in tier 1 services, I was involved in the transition of the platform to an
-event driven architecture.
+Aside from working on core platform features in tier 1 services, I played a key role in the transition of the platform
+to an event driven architecture.
 <br/>
-I initiated a first proof of concept with my team to spark a perspective shift in thinking about offer processing from a
-pipelined architecture to an event driven one.<br/>
+I initiated a first proof of concept with my team to encourage a shift in perspective -- from a
+pipelined architecture for offer processing to an event driven one.<br/>
 
-Helped guide this transition at the team level by hands-on implementing some of the first critical services to adopt
-the event driven approach. In order to address testing and maintainability concerns present in existing services, I
-proposed adopting ports-and-adapters architectural style for our services which the team embraced.
-By applying distributed systems design patterns from the start, our services ran reliably and became a template for
-future services to follow.<br/>
+When this shift got momentum across multiple teams in our product, I helped guide my team this transition by hands-on
+implementing some of the first critical services to adopt the event driven approach. To address testing and
+maintainability concerns in existing services, I proposed separating business concerns from technical ones in our
+codebase. The team valued this and embraced this ports-and-adapters architectural style. By incorporating distributed
+systems design patterns from the start, our services ran reliably and served as a template for future development.<br/>
 
 `event driven architecture` `google cloud platform`<br/>
 <br/>
@@ -73,7 +90,7 @@ To facilitate both the buyer and seller side of this movement online, we develop
 <br/>
 
 **Senior Software Architect** (2016 - 2018, [doubledutch](https://www.doubledutch.me))<br/>
-Rewriting the worlds leading Live Engagement Marketing platform<br/>
+Rewriting the world's leading Live Engagement Marketing platform<br/>
 * untangling and discovering domains captured in a monolithic codebase which won't scale much further, to open up for change and extension and compartmentalise in services
 * teasing out read and write concerns to enable scale when spiky mobile traffic hits our APIs
 * making services portable through containerisation and deploying them into the cloud
@@ -85,7 +102,9 @@ Rewriting the worlds leading Live Engagement Marketing platform<br/>
 **Software Architect / Manager** (2011 - 2016, [Deloitte Innovation](https://www2.deloitte.com/nl/nl/pages/innovatie/topics/innovatie.html))<br/>
 _“Do the processes in your organization operate according to standard and if not where can you find opportunities to optimize them?”_
 
-I performed hands-on technical guidance of the development team in design, implementation and testing of the [process intelligence software solution](https://www2.deloitte.com/us/en/pages/operations/solutions/process-efficiency-with-advanced-analytics.html) that helps answer these questions. Besides being a core member of our development efforts, I kept an eye on trends in the software field and matched approaches, technology choices and implementations where I believed we could benefit from it.<br/>
+I performed hands-on technical guidance of the development team in design, implementation and testing of the [process intelligence software solution](https://www2.deloitte.com/us/en/pages/operations/solutions/process-efficiency-with-advanced-analytics.html)
+that helps answer these questions. Besides being a core member of our development efforts, I kept an eye on trends in the
+software field and matched approaches, technology choices and implementations where I believed we could benefit from it.<br/>
 <br/>
 To this day, the software is in use by several F500 companies to successfully increase operational and process efficiency.<br/>
 <br/>
@@ -93,17 +112,21 @@ To this day, the software is in use by several F500 companies to successfully in
 <br/>
 
 **Senior Software Engineer** (2003 - 2011, JTeam) _<sub>acquired by [Trifork](http://trifork.nl) in 2012</sub>_<br/>
-At JTeam I worked on a variety of successful bespoke software projects in different industries and during this period grew into role of Senior Software Engineer. Industries included profit, non-profit, government and healthcare.<br/>
+At JTeam I worked on a variety of successful bespoke software projects in different industries and during this period grew
+into role of Senior Software Engineer. Industries included profit, non-profit, government and healthcare.<br/>
 <br/>
-I delivered bespoke software systems which often times integrated with third party systems. I worked both in-house and on client-site for and with clients.<br/>
+I delivered bespoke software systems, often integrating with third-party platforms. I worked both in-house and on client sites,
+collaborating closely with clients.<br/>
 <br/>
-Because JTeam nurtured its Extreme Programming culture from inception, I have been ingrained with feedback stimulating practices and methods. I believe I still benefit from these experiences every day.
+Because JTeam nurtured its Extreme Programming culture from inception, I have been ingrained with feedback stimulating
+practices and methods. I believe I still benefit from these experiences every day.
 
 `xp` `tdd` `scrum` `spring framework` `java` `hibernate` `continuous integration`<br/>
 <br/>
 
 **Development Process Consultant** (2006, Everyweb Solutions)<br/>
-Played a key role in setting up a development environment supporting agile practices to increase transparency in the development process. As such introduced issue tracking, an automated build system and test driven development.
+Played a key role in setting up a development environment supporting agile practices to increase transparency in the
+development process. As such introduced issue tracking, an automated build system and test driven development.
 
 `spring framework` `.net` `trac` `python` `tdd` `continuous integration`
 
