@@ -15,10 +15,45 @@ I like to think about ways in which systems may break in order to allow them to 
 Aside from brewing software I love to read, fish and ride my motorcycle.
 
 ## Resumé
+**Software Engineer**, Freelance (2024 aug - 2025 jul, [bol.com](https://www.bol.com))<br/>
+Enhancing Bol.com's selling offer conversion-focused services.<br/>
+
+With an increasing trend in both traffic and the desire to experiment and innovate, we identified key challenges in
+services our team inherited. Aside from making continuous reliability and performance improvements on the existing system, my team worked closely with
+the product team. We were able to re-envision its scope to better align with the business goals. This included a focus on
+auditability, performance and scalability and cost-control options.
+
+We translated this into a set of key performance indicators (KPIs), architectural drivers and
+system design principles to further inform architectural decisions. Seeking fast feedback on the reimagined service
+while delivering business value, we identified a set of key features to implement in the next quarter.
+We implemented a proof-of-concept demonstrating key concepts to validate our initial approach and set out actionable
+milestones and tasks.
+
 **Solution Architecture / DevEx**, Freelance (2022 sep - 2024 apr, [DHL eCommerce NL](http://www.dhlecommerce.nl/))<br/>
+As initial member the DevEx team I applied sentiment analysis to help identify areas of improvement for the
+developer experience of the software teams. For example, to aid teams in migrating their existing services to run on
+Kubernetes, we documented its layout and relation to existing infrastructure as to use it effectively. To help teams
+discover and use available infrastructure we piloted Backstage developer portal.
+
+`sociotechnical` `kubernetes` `backstage` `kafka` `event driven architecture`<br/>
 
 **Software Engineer**, Freelance (2020 jul - 2022 jun, [bol.com](https://www.bol.com))<br/>
 Enhancing Bol.com's selling offer calculation and publication platform.<br/>
+<br/>
+Aside from working on core platform features in tier 1 services, I was involved in the transition of the platform to an
+event driven architecture.
+<br/>
+I initiated a first proof of concept with my team to spark a perspective shift in thinking about offer processing from a
+pipelined architecture to an event driven one.<br/>
+
+Helped guide this transition at the team level by hands-on implementing some of the first critical services to adopt
+the event driven approach. In order to address testing and maintainability concerns present in existing services, I
+proposed adopting ports-and-adapters architectural style for our services which the team embraced.
+By applying distributed systems design patterns from the start, our services ran reliably and became a template for
+future services to follow.<br/>
+
+`event driven architecture` `google cloud platform`<br/>
+<br/>
 
 **Staff Software Engineer**, (2019 sep - 2020 mar, [Uber](https://www.uber.com))<br/>
 Payments Platform<br/>
